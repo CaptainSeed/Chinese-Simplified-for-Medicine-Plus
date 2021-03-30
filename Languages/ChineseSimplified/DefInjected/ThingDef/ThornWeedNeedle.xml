@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThornWeedNeedle.label>青棘针</ThornWeedNeedle.label>
+  <ThornWeedNeedle.description>一种具有麻醉毒素的树针。但药效相当弱，低剂量使用对身体无害。</ThornWeedNeedle.description>
+  <ThornWeedNeedle.ingestible.ingestCommandString>扎{0}</ThornWeedNeedle.ingestible.ingestCommandString>
+  <ThornWeedNeedle.ingestible.ingestReportString>正在扎{0}。</ThornWeedNeedle.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClozapineHigh.label>氯氮平</ClozapineHigh.label>
+  <ClozapineHigh.description>血液中作用的抗精神病药物，可以帮助控制严重的精神崩溃和无法控制的行为。</ClozapineHigh.description>
+  <ClozapineHigh.stages.0.label>微弱</ClozapineHigh.stages.0.label>
+  <ClozapineHigh.stages.1.label>中等</ClozapineHigh.stages.1.label>
+  <ClozapineHigh.stages.2.label>强力</ClozapineHigh.stages.2.label>
+
+
+</LanguageData>

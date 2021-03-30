@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_BaseResearch.label>药物基础</MP_BaseResearch.label>
+  <MP_BaseResearch.description>基础</MP_BaseResearch.description>
+
+  <MP_BasicUtilityMedicine.label>基础实用药物</MP_BasicUtilityMedicine.label>
+  <MP_BasicUtilityMedicine.description>研究具有基础作用的临床应用药物，譬如止痛药。</MP_BasicUtilityMedicine.description>
+
+  <MP_AdvUtilityMedicine.label>高级实用药物</MP_AdvUtilityMedicine.label>
+  <MP_AdvUtilityMedicine.description>这个研究项目在之前的研究基础上进一步发展，着眼于花费稀有材料的高级实用药物，譬如酪素——一种强大的免疫系统增强剂。</MP_AdvUtilityMedicine.description>
+
+  <MP_CrimsonBulbRefinement.label>红珠提炼</MP_CrimsonBulbRefinement.label>
+  <MP_CrimsonBulbRefinement.description>研究水培法种植红珠的方法。红珠是一种高级药物所必须的一种半合成作物。</MP_CrimsonBulbRefinement.description>
+
+  <MP_BasicCashCrops.label>基础经济药物</MP_BasicCashCrops.label>
+  <MP_BasicCashCrops.description>研究具有基础经济的药物，这些药物大多为了其高昂的价格而生产，譬如苯丙胺。</MP_BasicCashCrops.description>
+
+  <MP_AdvCashCrops.label>高级经济药物</MP_AdvCashCrops.label>
+  <MP_AdvCashCrops.description>这个研究项目在之前的研究基础上进一步发展，着眼于暴利而需要复杂材料制备的经济药物，譬如海洛因。</MP_AdvCashCrops.description>
+
+
+</LanguageData>

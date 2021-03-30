@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpperTolerance.label>苯丙胺耐受</UpperTolerance.label>
+  <UpperTolerance.description>一种日积月累的对苯丙胺的耐受作用。这种耐受作用越严重，为达到相同药效所需的苯丙胺量就越多。</UpperTolerance.description>
+
+  <opioidTolerance.label>阿片类耐受</opioidTolerance.label>
+  <opioidTolerance.description>一种日积月累的对阿片类的耐受作用。这种耐受作用越严重，为达到相同药效所需的阿片类药量就越多。</opioidTolerance.description>
+
+  <JoyTolerance.label>摇头丸耐受</JoyTolerance.label>
+  <JoyTolerance.description>一种日积月累的对摇头丸的耐受作用。这种耐受作用越严重，为达到相同药效所需的摇头丸就越多。</JoyTolerance.description>
+
+  <PeyoteTolerance.label>皮耶果耐受</PeyoteTolerance.label>
+  <PeyoteTolerance.description>一种日积月累的对皮耶果的耐受作用。这种耐受作用越严重，为达到相同药效所需的皮耶果就越多。</PeyoteTolerance.description>
+
+  <AniracetamTolerance.label>阿尼西坦耐受</AniracetamTolerance.label>
+  <AniracetamTolerance.description>一种日积月累的对阿尼西坦的耐受作用。这种耐受作用越严重，为达到相同药效所需的阿尼西坦就越多。</AniracetamTolerance.description>
+
+  <AddictolTolerance.label>瘾妥耐受</AddictolTolerance.label>
+  <AddictolTolerance.description>一种日积月累的对瘾妥的耐受作用。这种耐受作用越严重，为达到相同药效所需的瘾妥药量就越多。</AddictolTolerance.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantCrimsonBulb.label>红珠花</PlantCrimsonBulb.label>
+  <PlantCrimsonBulb.description>一种产量低、需要精心照料、费时费力但使用价值极高的作物。这是生产高级药物的必需品。</PlantCrimsonBulb.description>
+
+  <PlantThornWeed.label>青棘</PlantThornWeed.label>
+  <PlantThornWeed.description>一种坚韧瘦长的作物，上面布满细小的针刺，被扎之后会有轻微的麻木效果。这是这种植物的一种天然防御机制。这些针可以收集起来，用作弱效止痛药。</PlantThornWeed.description>
+
+  <PlantPeyote.label>皮耶</PlantPeyote.label>
+  <PlantPeyote.description>即佩奥特掌。一种无刺的小仙人掌，吃下它的果实会产生视听幻觉。</PlantPeyote.description>
+
+  <PlantPapaver.label>罂粟</PlantPapaver.label>
+  <PlantPapaver.description>一种可以产生粘稠乳液的小花。用于进一步提纯阿片类药品。</PlantPapaver.description>
+
+
+</LanguageData>

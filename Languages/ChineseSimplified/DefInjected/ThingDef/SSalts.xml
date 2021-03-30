@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SSalts.label>嗅盐</SSalts.label>
+  <SSalts.description>也被称为氨盐。通过微量的氨气引起的神经反射，来激发生物的呼吸系统。</SSalts.description>
+  <SSalts.ingestible.ingestCommandString>闻{0}</SSalts.ingestible.ingestCommandString>
+  <SSalts.ingestible.ingestReportString>正在闻{0}。</SSalts.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NumbingHigh.label>青棘</NumbingHigh.label>
+  <NumbingHigh.description>青棘中的一种麻醉活性物质侵入了血液，引起了昏厥和瘫痪作用</NumbingHigh.description>
+  <NumbingHigh.stages.0.label>眼冒金星</NumbingHigh.stages.0.label>
+  <NumbingHigh.stages.1.label>轻度麻木</NumbingHigh.stages.1.label>
+  <NumbingHigh.stages.2.label>中度麻木</NumbingHigh.stages.2.label>
+  <NumbingHigh.stages.3.label>重度麻木</NumbingHigh.stages.3.label>
+  <NumbingHigh.stages.4.label>几乎瘫痪</NumbingHigh.stages.4.label>
+
+
+</LanguageData>

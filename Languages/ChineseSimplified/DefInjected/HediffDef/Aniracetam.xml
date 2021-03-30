@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AniracetamHigh.label>阿尼西坦</AniracetamHigh.label>
+  <AniracetamHigh.description>进入血液中会增强脑力的药物。能够提高精力。可能造成疲劳或加快饥饿。</AniracetamHigh.description>
+
+  <AniracetamBrainFog.label>精神恍惚</AniracetamBrainFog.label>
+  <AniracetamBrainFog.description>服用阿尼西坦出现的一种难受的后作用，会让人思维迟钝。</AniracetamBrainFog.description>
+  <AniracetamBrainFog.stages.0.label>轻度</AniracetamBrainFog.stages.0.label>
+  <AniracetamBrainFog.stages.1.label>中度</AniracetamBrainFog.stages.1.label>
+  <AniracetamBrainFog.stages.2.label>重度</AniracetamBrainFog.stages.2.label>
+  <AniracetamBrainFog.stages.3.label>极重</AniracetamBrainFog.stages.3.label>
+  <AniracetamBrainFog.labelNoun>精神恍惚</AniracetamBrainFog.labelNoun>
+
+
+</LanguageData>

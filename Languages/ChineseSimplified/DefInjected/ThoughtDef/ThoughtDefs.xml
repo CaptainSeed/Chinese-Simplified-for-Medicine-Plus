@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpperHighThought.stages.0.label>苯丙胺亢奋</UpperHighThought.stages.0.label>
+  <UpperHighThought.stages.0.description>我像打了鸡血一样！</UpperHighThought.stages.0.description>
+
+  <UpperWithdrawal.stages.1.label>苯丙胺戒断</UpperWithdrawal.stages.1.label>
+  <UpperWithdrawal.stages.1.description>我总是好困，脑袋好重快撑不住了。</UpperWithdrawal.stages.1.description>
+
+  <opioidHigh.stages.0.label>鸦片亢奋</opioidHigh.stages.0.label>
+  <opioidHigh.stages.0.description>我很宁静。贤者模式已启动。</opioidHigh.stages.0.description>
+
+  <opioid2High.stages.0.label>吗啡亢奋</opioid2High.stages.0.label>
+  <opioid2High.stages.0.description>我感觉轻快多了。针不戳。</opioid2High.stages.0.description>
+
+  <opioid3High.stages.0.label>海洛因亢奋</opioid3High.stages.0.label>
+  <opioid3High.stages.0.description>我已经飘飘欲仙了。我飞升了……</opioid3High.stages.0.description>
+
+  <opioidWithdrawal.stages.1.label>阿片类戒断</opioidWithdrawal.stages.1.label>
+  <opioidWithdrawal.stages.1.description>眼睛疼，浑身都疼，什么都干不下去。我好难受……</opioidWithdrawal.stages.1.description>
+
+  <CyanideHighThought.stages.0.label>氰化物中毒</CyanideHighThought.stages.0.label>
+  <CyanideHighThought.stages.0.description>我坐不住了，感觉心脏在我的胸腔里咚咚地跳个不停，我是不是要死了？</CyanideHighThought.stages.0.description>
+
+  <JoyHigh.stages.0.label>摇头丸亢奋</JoyHigh.stages.0.label>
+  <JoyHigh.stages.0.description>嗯，美好的一天……</JoyHigh.stages.0.description>
+
+  <JoyWithdrawal.stages.1.label>摇头丸戒断</JoyWithdrawal.stages.1.label>
+  <JoyWithdrawal.stages.1.description>好黑啊好黑啊好黑啊……</JoyWithdrawal.stages.1.description>
+
+  <TeaHigh.stages.0.label>玫瑰茶暖身</TeaHigh.stages.0.label>
+  <TeaHigh.stages.0.description>这茶有一种独特的香味，我还蛮喜欢的。</TeaHigh.stages.0.description>
+
+  <PeyoteHigh.stages.0.label>皮耶果幻觉</PeyoteHigh.stages.0.label>
+  <PeyoteHigh.stages.0.description>我能听到大自然的声音。</PeyoteHigh.stages.0.description>
+
+  <PeyoteWithdrawal.stages.1.label>皮耶果戒断</PeyoteWithdrawal.stages.1.label>
+  <PeyoteWithdrawal.stages.1.description>我觉得我掉线了。</PeyoteWithdrawal.stages.1.description>
+
+  <AniracetamBrainFogThought.stages.0.label>阿尼西坦的副作用</AniracetamBrainFogThought.stages.0.label>
+  <AniracetamBrainFogThought.stages.0.description>我好像。没法。专心了？呃。</AniracetamBrainFogThought.stages.0.description>
+
+  <HypnotolAddictionThought.stages.0.label>催眠剂抗拒作用</HypnotolAddictionThought.stages.0.label>
+  <HypnotolAddictionThought.stages.0.description>我在干什么？我控制不住我自己啊！</HypnotolAddictionThought.stages.0.description>
+
+
+</LanguageData>

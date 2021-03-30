@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpperAddiction.label>苯丙胺成瘾</UpperAddiction.label>
+  <UpperAddiction.description>由于已经成瘾，需要定期注射这种药物来避免戒断症状。</UpperAddiction.description>
+  <UpperAddiction.stages.1.label>戒断</UpperAddiction.stages.1.label>
+
+  <opioidAddiction.label>阿片类成瘾</opioidAddiction.label>
+  <opioidAddiction.description>一种对阿片类药物的化学性依赖。长期的服用阿片类药物导致了细胞出现对药物的神经性适应，因而在药品摄入不足时，大脑将出现功能性退化。
+	\n当阿片类药物的剂量不能按期确保摄入时，戒断症状就会出现。然而，长期的戒断就会迫使大脑细胞重新适应正常状态，从而戒除成瘾。</opioidAddiction.description>
+  <opioidAddiction.stages.1.label>戒断</opioidAddiction.stages.1.label>
+
+  <JoyAddiction.label>摇头丸成瘾</JoyAddiction.label>
+  <JoyAddiction.description>由于已经成瘾，需要定期服用摇头丸来避免戒断症状。</JoyAddiction.description>
+  <JoyAddiction.stages.1.label>戒断</JoyAddiction.stages.1.label>
+
+  <PeyoteAddiction.label>皮耶果成瘾</PeyoteAddiction.label>
+  <PeyoteAddiction.description>由于已经成瘾，需要定期摄取皮耶果来避免戒断症状。</PeyoteAddiction.description>
+  <PeyoteAddiction.stages.1.label>戒断</PeyoteAddiction.stages.1.label>
+
+  <AniracetamAddiction.label>阿尼西坦成瘾</AniracetamAddiction.label>
+  <AniracetamAddiction.description>由于已经成瘾，需要定期服用阿尼西坦来避免戒断症状。</AniracetamAddiction.description>
+  <AniracetamAddiction.stages.1.label>戒断</AniracetamAddiction.stages.1.label>
+
+  <AddictolAddiction.label>瘾妥成瘾</AddictolAddiction.label>
+  <AddictolAddiction.description>由于已经成瘾，需要定期服用瘾妥来避免戒断症状。</AddictolAddiction.description>
+  <AddictolAddiction.stages.1.label>戒断</AddictolAddiction.stages.1.label>
+
+
+</LanguageData>

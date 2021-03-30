@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Peyote.label>皮耶果</Peyote.label>
+  <Peyote.description>佩奥特仙人掌的球果，因其强效致幻性而闻名。</Peyote.description>
+  <Peyote.ingestible.ingestCommandString>吃{0}</Peyote.ingestible.ingestCommandString>
+  <Peyote.ingestible.ingestReportString>正在吃{0}。</Peyote.ingestible.ingestReportString>
+
+
+</LanguageData>

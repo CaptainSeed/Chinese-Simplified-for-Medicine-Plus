@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HypnotolHigh.label>催眠剂</HypnotolHigh.label>
+	<HypnotolHigh.labelNoun>催眠剂洗脑</HypnotolHigh.labelNoun>
+	<HypnotolHigh.description>摄入血液中的催眠剂导致了认知功能的下降。可能导致疲劳和情绪波动。</HypnotolHigh.description>
+	
+	<HypnotolTolerance.label>催眠剂耐受</HypnotolTolerance.label>
+	<HypnotolTolerance.description>对催眠药长期形成的耐受性。这种耐受性越强，就需要越多的催眠剂量来达到同样的效果。</HypnotolTolerance.description>
+
+	<HypnotolAddiction.label>催眠剂成瘾</HypnotolAddiction.label>
+	<HypnotolAddiction.description>由于对催眠药的成瘾性，这个人需要定期服用这种药物，来避免它的洗脑效果逐渐消失。</HypnotolAddiction.description>
+
+</LanguageData>

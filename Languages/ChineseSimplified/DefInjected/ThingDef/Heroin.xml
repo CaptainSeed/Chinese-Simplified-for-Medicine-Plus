@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heroin.label>海洛因</Heroin.label>
+  <Heroin.description>海洛因，也被称为白粉，是一种阿片类药物，因其带来的强烈快感而常被用作消遣性毒品。通常可持续4-5个小时。成瘾性极强。</Heroin.description>
+  <Heroin.ingestible.ingestCommandString>吸{0}</Heroin.ingestible.ingestCommandString>
+  <Heroin.ingestible.ingestReportString>正在吸{0}。</Heroin.ingestible.ingestReportString>
+
+
+</LanguageData>

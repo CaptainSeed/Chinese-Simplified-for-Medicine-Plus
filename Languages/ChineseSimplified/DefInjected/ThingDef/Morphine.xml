@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Morphine.label>吗啡</Morphine.label>
+  <Morphine.description>从罂粟果榨取的乳汁中提取的一种衍生物。这是一种更强劲的阿片类药物，同时也起着强效止痛药的作用。通常可持续2-3小时。</Morphine.description>
+  <Morphine.ingestible.ingestCommandString>注射{0}</Morphine.ingestible.ingestCommandString>
+  <Morphine.ingestible.ingestReportString>正在注射{0}。</Morphine.ingestible.ingestReportString>
+
+
+</LanguageData>

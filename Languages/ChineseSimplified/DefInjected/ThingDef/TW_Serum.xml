@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThornWeedExtract.label>青棘精华</ThornWeedExtract.label>
+  <ThornWeedExtract.description>用青棘针中发现的一种有效的化学麻醉物质提炼出的一种更有效的药剂，产生的副作用也会更少。</ThornWeedExtract.description>
+  <ThornWeedExtract.ingestible.ingestCommandString>注射{0}</ThornWeedExtract.ingestible.ingestCommandString>
+  <ThornWeedExtract.ingestible.ingestReportString>注射{0}。</ThornWeedExtract.ingestible.ingestReportString>
+
+
+</LanguageData>

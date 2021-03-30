@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemical_Upper.label>苯丙胺</Chemical_Upper.label>
+  <Chemical_Upper.description>由于对苯丙胺的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Upper.description>
+
+  <Chemical_Opioid.label>阿片类</Chemical_Opioid.label>
+  <Chemical_Opioid.description>由于对阿片类的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Opioid.description>
+
+  <Chemical_Joy.label>摇头丸</Chemical_Joy.label>
+  <Chemical_Joy.description>由于对摇头丸的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Joy.description>
+
+  <Chemical_Peyote.label>皮耶果</Chemical_Peyote.label>
+  <Chemical_Peyote.description>由于对皮耶果的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Peyote.description>
+
+  <Chemical_Aniracetam.label>阿尼西坦</Chemical_Aniracetam.label>
+  <Chemical_Aniracetam.description>由于对阿尼西坦的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Aniracetam.description>
+
+  <Chemical_Addictol.label>瘾妥</Chemical_Addictol.label>
+  <Chemical_Addictol.description>由于对瘾妥的成瘾作用，这个人需要定期注射药物来避免戒断反应。</Chemical_Addictol.description>
+
+
+</LanguageData>

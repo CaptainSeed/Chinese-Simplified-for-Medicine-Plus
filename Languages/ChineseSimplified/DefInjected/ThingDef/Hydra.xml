@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hydra.label>纳米水蛭</Hydra.label>
+  <Hydra.description>一种高纯度的纳米机械粉末，有助于愈合伤口和疤痕。具有类似于魔鬼素的愈合特性。每15天服用一次即可达到药效。</Hydra.description>
+  <Hydra.ingestible.ingestCommandString>施用{0}</Hydra.ingestible.ingestCommandString>
+  <Hydra.ingestible.ingestReportString>正在施用{0}。</Hydra.ingestible.ingestReportString>
+
+
+</LanguageData>

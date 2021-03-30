@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PoppyLatex.label>鸦片</PoppyLatex.label>
+  <PoppyLatex.description>从罂粟中收获的干乳胶。它可以直接抽吸，也提炼成更强效的其他阿片类。</PoppyLatex.description>
+  <PoppyLatex.ingestible.ingestCommandString>吸{0}</PoppyLatex.ingestible.ingestCommandString>
+  <PoppyLatex.ingestible.ingestReportString>正在吸{0}。</PoppyLatex.ingestible.ingestReportString>
+
+
+</LanguageData>

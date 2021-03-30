@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_Addictol.label>瘾妥</MP_Addictol.label>
+  <MP_Addictol.description>一种用于毒瘾替代疗法的合成药物，瘾妥可以复制其他药物的效果，但不会产生那些快感，可以帮助成瘾者更快地戒毒。但是，瘾妥本身也很容易上瘾。</MP_Addictol.description>
+  <MP_Addictol.ingestible.ingestCommandString>吸入{0}</MP_Addictol.ingestible.ingestCommandString>
+  <MP_Addictol.ingestible.ingestReportString>正在吸入{0}。</MP_Addictol.ingestible.ingestReportString>
+
+
+</LanguageData>

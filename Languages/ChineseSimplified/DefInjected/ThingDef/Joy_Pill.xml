@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Joy.label>摇头丸</Joy.label>
+  <Joy.description>一种由城市世界政府开发的用来控制市民的药物，它会产生一种强烈的快感。成瘾性非常强。</Joy.description>
+  <Joy.ingestible.ingestCommandString>嗑{0}</Joy.ingestible.ingestCommandString>
+  <Joy.ingestible.ingestReportString>正在吞下{0}。</Joy.ingestible.ingestReportString>
+
+
+</LanguageData>

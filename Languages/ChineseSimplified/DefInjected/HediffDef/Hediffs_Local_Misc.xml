@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_ChemicalDamageMinor.label>化学性损伤</MP_ChemicalDamageMinor.label>
+  <MP_ChemicalDamageMinor.description>细胞出现化学性损伤。</MP_ChemicalDamageMinor.description>
+
+  <MP_MuscleSpasm.label>肌肉痉挛</MP_MuscleSpasm.label>
+  <MP_MuscleSpasm.description>肌肉或肌肉群不自主地突然运动。</MP_MuscleSpasm.description>
+  <MP_MuscleSpasm.stages.1.label>疼痛</MP_MuscleSpasm.stages.1.label>
+  <MP_MuscleSpasm.stages.2.label>剧痛</MP_MuscleSpasm.stages.2.label>
+
+
+</LanguageData>

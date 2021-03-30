@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Upper.label>苯丙胺</Upper.label>
+  <Upper.description>闪耀世界奥运会中使用最多的兴奋剂。苯丙胺会让使用者速度得到短暂的爆发。有中度成瘾性，长期使用可导致肾衰竭和肌肉痉挛。</Upper.description>
+  <Upper.ingestible.ingestCommandString>注射{0}</Upper.ingestible.ingestCommandString>
+  <Upper.ingestible.ingestReportString>注射{0}。</Upper.ingestible.ingestReportString>
+
+
+</LanguageData>

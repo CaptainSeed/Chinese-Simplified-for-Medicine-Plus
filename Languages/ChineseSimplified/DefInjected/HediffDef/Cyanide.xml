@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CyanideHigh.label>氰化物</CyanideHigh.label>
+  <CyanideHigh.description>血液中含有巨毒的氰化物。导致剧烈抽搐、呼吸困难，最终死亡。</CyanideHigh.description>
+  <CyanideHigh.stages.0.label>呼吸困难</CyanideHigh.stages.0.label>
+  <CyanideHigh.stages.1.label>颤抖</CyanideHigh.stages.1.label>
+  <CyanideHigh.stages.2.label>震颤</CyanideHigh.stages.2.label>
+  <CyanideHigh.stages.3.label>抽搐</CyanideHigh.stages.3.label>
+  <CyanideHigh.stages.4.label>脑死亡</CyanideHigh.stages.4.label>
+
+
+</LanguageData>
